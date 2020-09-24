@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Hacking
+    web_url: https://www.bsi-fuer-buerger.de/BSIFB/DE/Risiken/Hacker/hacker_node.html
+    image_url: https://www.bsi-fuer-buerger.de/SharedDocs/Bilder/DE/Bilder_extern/Fotolia/Risiken/botnetz_47459470.jpg
 
-  - name: Web design
+  - name: Internet Privacy
+    web_url: https://en.wikipedia.org/wiki/Internet_privacy
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Internet_map_1024_-_transparent%2C_inverted.png/480px-Internet_map_1024_-_transparent%2C_inverted.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Security and Privacy
+    web_url: https://www.inf.uni-hamburg.de/inst/ab/snp/home.html
+    image_url: https://assets.rrz.uni-hamburg.de/assets/uhh-logo-4ec3691b46570436d95977e2c0c368646d0c24d722425dd674f48b1c44585e81.svg
